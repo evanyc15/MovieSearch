@@ -1,6 +1,6 @@
 # MovieSearch
 
-## Instructions of how to run.
+## Instructions on how to run.
 
 * Install NodeJS (v7.2.1) from https://nodejs.org/en/
 * git clone this project
