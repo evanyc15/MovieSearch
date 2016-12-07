@@ -1,0 +1,20 @@
+#bodyContainer{
+    padding:30px;
+}
+.movie-item-col{
+    padding:10px;
+}
+.movie-item{
+    position: relative;
+    width: 100%;
+}
+.movie-item:hover{
+    cursor: pointer;
+}
+.movie-item img:hover{
+    opacity: 0.7;
+}
+.movie-item img{
+    height: 100%;
+    width: 100%;
+}
